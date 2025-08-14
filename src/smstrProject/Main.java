@@ -7,7 +7,7 @@ import javax.swing.border.*;
 import javax.swing.table.DefaultTableModel;
 import javax.swing.table.TableCellRenderer;
 import java.sql.*;
-
+// it works perfect 
 public class Main {
     private static DatabaseOperations db;
     private static JFrame mainFrame;
