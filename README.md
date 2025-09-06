@@ -78,8 +78,8 @@ private static final String PASSWORD = "your_password_here";
 
 ## Contributors
 
-- **[M Zain Ul Abideen -Me 😎]** - Backend Development, Database Design, System Integration
-- **[Salar Abdullah , Rehmat-Gull]** - Frontend Design, UI/UX, Component Styling
+- **[M Zain Ul Abideen ]** - Backend Development, Database Design, System Integration
+- **[Salar Abdullah , Rehmat-Gul ~me]** - Frontend Design, UI/UX, Component Styling
 
 ## License
 
